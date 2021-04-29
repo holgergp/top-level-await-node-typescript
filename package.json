@@ -1,5 +1,9 @@
 {
   "name": "top-level-await-node-typescript",
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
   "version": "1.0.0",
   "description": "Playground to testdrive top-level-await in node using typescript",
   "main": "dist/index.js",
