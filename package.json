@@ -22,6 +22,7 @@
     "url": "https://github.com/holgergp/top-level-await-node-typescript/issues"
   },
   "homepage": "https://github.com/holgergp/top-level-await-node-typescript#readme",
+  "type": "module",
   "devDependencies": {
     "typescript": "^4.2.4"
   }
