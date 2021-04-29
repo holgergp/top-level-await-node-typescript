@@ -1,7 +1,7 @@
 {
   "name": "top-level-await-node-typescript",
   "engines": {
-    "node": ">=10.0.0",
+    "node": ">=14.8.0",
     "npm": ">=6.0.0"
   },
   "version": "1.0.0",
